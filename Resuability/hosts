@@ -1,0 +1,2 @@
+localhost
+172.31.3.155 ansible_python_interpreter=/usr/bin/python3 filename1=test1 filename2=test2
